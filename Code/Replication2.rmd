@@ -1,7 +1,7 @@
 ---
 title: "Replication 2"
 author: "Zayd Abdalla"
-output: github_document
+output: word_document
 ---
 
 ```{r setup, include=FALSE}
